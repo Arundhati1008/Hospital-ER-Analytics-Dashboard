@@ -1,8 +1,8 @@
-# 🏥 Hospital Emergency Room Analytics Dashboard
+# 🏥 Hospital Emergency Room Analytics Dashboard + AI Assistant
 
 ### Tools Used: Power BI | SQL | Power Query | DAX | Data Modeling | ETL
 
-This project analyzes patient admissions, wait time, referrals, satisfaction scores, and peak busy periods to help optimize emergency room resource allocation.
+This project analyzes patient admissions, wait time, referrals, satisfaction scores, and peak busy periods to help optimize emergency room resource allocation.  Added a Python + Streamlit AI chatbot using OpenAI to answer queries on traffic, wait time, satisfaction, and peak hours
 
 ## 📊 Key Insights
 - Average wait time: 35.3 minutes  
